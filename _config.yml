@@ -7,18 +7,17 @@
 
 # Site settings
 title: Humanismus statt Feminismus
-email: 
-description: >
+email: ""
+description: ""
   
-logo: "/assets/images/logo.jpg"
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://www.humanismus-statt-feminismus.at" # the base hostname & protocol for your site
+logo: ""
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
-name: ''
-bio: >
-  .
-author_image: "/assets/images/author.jpg"
+name: ""
+bio: ""
+author_image: ""
 twitter_username: jekyllrb
 github_username:  jekyll
 
