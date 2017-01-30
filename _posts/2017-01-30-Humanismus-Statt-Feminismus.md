@@ -1,5 +1,6 @@
 ---
 layout: post
+title:  ""
 ---
 
 Initiative für Humanismus statt Feminismus. Wir lehnen das geplante Frauenvolksbegehren #Österreich 2017 ab.
