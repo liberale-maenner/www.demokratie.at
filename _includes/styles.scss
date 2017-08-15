@@ -307,9 +307,8 @@ body {
       -moz-hyphens: auto;
       hyphens: auto;
     }
-    a {
-      color: #333333;
-      text-decoration: none;
+    a:hover, a:visited, a:link, a:active {      
+      text-decoration: none !important
       border-bottom: 4px dotted magenta;
     }
     amp-img, amp-youtube {
