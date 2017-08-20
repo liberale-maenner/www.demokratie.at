@@ -1,24 +1,28 @@
 <header class="site-header">
-  <a href="{{ site.baseurl }}/">
-  
-  <span style =
-     "font-family: Orbitron;
-    color:yellow;
-    font-size: 3em;
-    text-align: center;
-    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-border-bottom: 4px dotted magenta;">LIBERALE</span>
- <span> </span>
-<span style =
-     "font-family: Orbitron;
-    color:blue;
-    font-size: 3em;
-    text-align: center;
-    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-border-bottom: 4px dotted magenta;">MÄNNER</span>
-  
-  </a>
-
+  <div style="display: table;">
+    <div>
+      <div style="display: table-row;">
+        <div style="display: table-cell; float:left">
+          <span style=
+          "font-family: Orbitron; color:yellow; font-size: 3em; text-align: center; text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;">
+          LIBERALE</span> <span style=
+          "font-family: Orbitron; color:magenta; font-size: 3em; text-align: center;">
+          &#x25FC</span>
+        </div>
+      </div>
+      <div style="display: table-row;">
+        <div style="display: table-cell; float:right">
+          <span style=
+          "font-family: Orbitron; color:magenta; font-size: 3em; text-align: center;">
+          &#x25FC</span> <span style=
+          "font-family: Orbitron; color:magenta; font-size: 3em; text-align: center;">
+          &#x25FC</span> <span style=
+          "font-family: Orbitron; color:blue; font-size: 3em; text-align: center; text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;">
+          MÄNNER</span>
+        </div>
+      </div>
+    </div>
+  </div>
   <div class="page-links">
     <a class="page-link" href="{{ site.baseurl }}/">Home</a>
     {% for my_page in site.pages %}
