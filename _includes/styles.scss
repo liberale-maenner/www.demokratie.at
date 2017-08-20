@@ -307,9 +307,9 @@ body {
       -moz-hyphens: auto;
       hyphens: auto;
     }
-    a:hover, a:visited, a:link, a:active a:-webkit-any-link {      
-      text-decoration: none !important
-      border-bottom: 4px dotted magenta;
+    a {
+      color: #333333;
+      text-decoration: underline;
     }
     amp-img, amp-youtube {
       margin-top: 30px;
