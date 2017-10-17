@@ -4,6 +4,6 @@ title: Gleichberechtigung - auch für Männer
 ---
 
 Hier geht es zu den
-[Liberalen Männern Deutschland](http://liberale-maenner.de)
+<a href="http://liberale-maenner.de">Liberalen Männern Deutschland</a>
 und hier zu den
-[Liberalen Männern Österreich](http://liberalemaenner.at)
+<a href="http://liberalemaenner.at">Liberalen Männern Österreich</a>
